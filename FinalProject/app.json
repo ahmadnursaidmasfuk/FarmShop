@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Farm Shop",
+    "slug": "FinalProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./file/Pages/asset/logo.png",
+    "ios": {
+      "bundleIdentifier":"com.Ansamas",
+      "buildNumber":"1.0.0"
+    },
+    "android": {
+      "package":"com.Ansamas",
+      "versionCode":1
+    }
+  }
+}
